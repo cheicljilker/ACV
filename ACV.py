@@ -5,7 +5,7 @@ print ('salut')
 ## STEP 1 : Libraries and initialisation
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
+import matplotlib as plt
 import seaborn as sns
 import numpy as np
 from sklearn.compose import make_column_selector as selector
